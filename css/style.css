@@ -1,0 +1,11 @@
+body{
+    margin: 20px;
+}
+#errorMsg{
+    display: none;
+}
+
+.result{
+    text-align: center; 
+    margin-top: 100px;
+}
